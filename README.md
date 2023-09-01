@@ -7,7 +7,7 @@ I have recently started using GitHub to build my portfolio (hence why it looked 
 If you want to know me more you can check out my **[LinkedIn](https://www.linkedin.com/in/gloria-shanti-wulandaru-a0ab21216/)**.
 Thank you!
 
-If you ever want to reach me, you can contact me via [Email](contactme.gloriashanti@gmailcom) 😸
+If you ever want to reach me, you can contact me via [Email](https://mail.google.com/mail/?view=cm&fs=1&to=contactme.gloriashanti@gmail.com) 😸
 
 <p align="left">
 <a href="https://github.com/shannnbe">
