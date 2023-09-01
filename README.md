@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Gloria**, often called **Shan**. I'm an undergraduate Computer Science student residing in Jakarta, Indonesia.
+My name is **Gloria Shanti**, often called **Shan**. I'm an undergraduate Computer Science student residing in Jakarta, Indonesia.
 I have a great interest in Data Science, especially in **Machine Learning**, I have also grown an interest in **Mobile App Development** using **Kotlin/Java**.
 
 I have recently started using GitHub to build my portfolio (hence why it looked so dry)...
