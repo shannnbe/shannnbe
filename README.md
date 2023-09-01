@@ -9,11 +9,12 @@ Thank you!
 
 If you ever want to reach me, you can contact me via [Email](contactme.gloriashanti@gmailcom) 😸
 
-</code>
-  <hr>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shannnbe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannnbe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p>
-<hr>
+<p align="left">
+<a href="https://github.com/shannnbe">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shannnbe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shannnbe&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
