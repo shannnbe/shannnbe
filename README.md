@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/shannnbe/shannnbe/assets/96068163/15acfcc9-4c21-496b-a6a7-7b21b4786a9e)### Hi there 👋
 
 My name is **Gloria Shanti**, often called **Shan**. I'm an undergraduate Computer Science student residing in Jakarta, Indonesia.
 I have great interest in Data Science, especially in **Machine Learning**, I have also grown interest in **Mobile App Development** using **Kotlin/Java**.
@@ -9,10 +9,19 @@ Thank you!
 
 If you ever want to reach me, you can contact me via [Email](https://mail.google.com/mail/?view=cm&fs=1&to=contactme.gloriashanti@gmail.com) 😸
 
+<!--
 <p align="left">
 <a href="https://github.com/shannnbe">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shannnbe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shannnbe&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+!-->
+
+<p align="left">
+<a href="https://github.com/shannnbe">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shannnbe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannnbe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </p>
 
