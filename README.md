@@ -1,4 +1,4 @@
-![image](https://github.com/shannnbe/shannnbe/assets/96068163/15acfcc9-4c21-496b-a6a7-7b21b4786a9e)### Hi there 👋
+## Hi there 👋
 
 My name is **Gloria Shanti**, often called **Shan**. I'm an undergraduate Computer Science student residing in Jakarta, Indonesia.
 I have great interest in Data Science, especially in **Machine Learning**, I have also grown interest in **Mobile App Development** using **Kotlin/Java**.
