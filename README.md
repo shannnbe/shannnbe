@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is **Gloria Shanti**, often called **Shan**. I'm an undergraduate Computer Science student residing in Jakarta, Indonesia.
-I have great interest in Data Science, especially in **Machine Learning**, I have also grown interest in **Mobile App Development** using **Kotlin/Java**.
+I have great interest in Data Science, especially in **Machine Learning**.
 
 I have recently started using GitHub to build my portfolio (hence why it looked so dry)...
 If you want to know me more you can check out my **[LinkedIn](https://www.linkedin.com/in/gloria-shanti-wulandaru-a0ab21216/)**.
