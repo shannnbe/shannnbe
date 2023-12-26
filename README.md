@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-My name is **Gloria Shanti**, often called **Shan**. I'm an undergraduate Computer Science student residing in Jakarta, Indonesia.
-I have great interest in Data Science, especially in **Machine Learning**.
+My name is **Gloria Shanti**, often called **Shan** though you also can call me **Gloria**. I'm a third-year undergraduate Computer Science student.
+I am greatly interested in the study of **Machine Learning** and **Data Science**. Though right now, as of February 2024, I'm starting my career as a **Software Engineer** by having an Internship at PT Bank Sinarmas Tbk in BSD, Tangerang.
 
 I have recently started using GitHub to build my portfolio (hence why it looked so dry)...
 If you want to know me more you can check out my **[LinkedIn](https://www.linkedin.com/in/gloria-shanti-wulandaru-a0ab21216/)**.
 Thank you!
 
 If you ever want to reach me, you can contact me via [Email](https://mail.google.com/mail/?view=cm&fs=1&to=contactme.gloriashanti@gmail.com) 😸
+Or let's be friends on [X](/https://twitter.com/in_sainthy)!
 
 <!--
 <p align="left">
