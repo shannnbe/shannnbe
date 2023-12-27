@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Gloria Shanti**, often called **Shan** though you also can call me **Gloria**. I'm a third-year undergraduate Computer Science student.
+My name is **Gloria Shanti**, often called **Shan** though you can also call me **Gloria**. I'm a third-year undergraduate Computer Science student.
 I am greatly interested in the study of **Machine Learning** and **Data Science**. Though right now, as of February 2024, I'm starting my career as a **Software Engineer** by having an Internship at PT Bank Sinarmas Tbk in BSD, Tangerang.
 
 I have recently started using GitHub to build my portfolio (hence why it looked so dry)...
