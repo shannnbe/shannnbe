@@ -8,7 +8,7 @@ If you want to know me more you can check out my **[LinkedIn](https://www.linked
 Thank you!
 
 If you ever want to reach me, you can contact me via [Email](https://mail.google.com/mail/?view=cm&fs=1&to=contactme.gloriashanti@gmail.com) 😸
-Or let's be friends on [X](/https://twitter.com/in_sainthy)!
+Or let's be friends on [X](/https://twitter.com/shannnbe)!
 
 <!--
 <p align="left">
