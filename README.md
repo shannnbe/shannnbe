@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Gloria Shanti**, often called **Shan** though you can also call me **Gloria**. currently a software engineer at Bank Sinarmas, where I focused and specialize in backend development.
+My name is **Gloria Shanti**, often called **Shan** though you can also call me **Gloria**. Currently working as a Software Engineer at Bank Sinarmas, where I focused and specialize in Backend Development.
 
 I have recently started using GitHub to build my portfolio (hence why it looked so dry)...
 If you want to know me more you can check out my **[LinkedIn](https://www.linkedin.com/in/gloria-shanti-wulandaru-a0ab21216/)** and my [portofolio](https://gloriashanti.dev).
